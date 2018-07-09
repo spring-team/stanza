@@ -1,3 +1,5 @@
+// Finite games are played within boundaries. Infinite games play with boundaries.
+
 package com.pcl.stanza;
 
 import org.springframework.boot.SpringApplication;
